@@ -1,7 +1,10 @@
 # Created by https://www.gitignore.io/api/java
 
 .idea
+# intelliJ
 out
+*.iml
+
 ### Java ###
 # Compiled class file
 *.class
