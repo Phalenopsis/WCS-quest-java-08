@@ -1,7 +1,7 @@
 # Created by https://www.gitignore.io/api/java
 
 .idea
-
+out
 ### Java ###
 # Compiled class file
 *.class
